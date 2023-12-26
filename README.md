@@ -1,2 +1,2 @@
-# talkium-cdn
-The official Content Delivery Network for Talkium; starting from Talkium 4+
+# kasdev-cdn
+The official Content Delivery Network for [@GlitchieTheDev](https://github.com/GlitchieTheDev)'s projects
